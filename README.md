@@ -1,9 +1,13 @@
 Hello there! I’m Harukomaze or alternatively, you can call me Pizer
+
 I’m interested in learning new languages a lot
+
 I’m currently learning C# basics
+
 I am also quite new to programming, and so far have only learned intermediate python
 
 Alternatively, I often go to codewars.com to solve coding problem, and it's really fun.
+
 You can find my profile here: https://www.codewars.com/users/Harukomaze
 
 
